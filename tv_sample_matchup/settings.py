@@ -19,8 +19,8 @@ sys.path.insert(0, BASE_DIR)
 # sys.path.insert(0, os.path.join(BASE_DIR, 'extra_apps'))
 
 
-MEDIA_URL="/media/"
-MEDIA_ROOT=os.path.join(BASE_DIR,"media")
+# MEDIA_URL="/media/"
+# MEDIA_ROOT=os.path.join(BASE_DIR,"media")
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 # BASE_DIR = Path(__file__).resolve().parent.parent
@@ -66,7 +66,7 @@ MIDDLEWARE = [
     
 ]
 
-PROJECT_ROOT = '~/Desktop/Django_tv_sample/tv_sample_matchup/media/'
+PROJECT_ROOT = '~/Desktop/Django_tv_sample/tv_sample_matchup/tv_sample_matchup'
 
 MEDIA_ROOT = os.path.join(PROJECT_ROOT, 'media')
 
