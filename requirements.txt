@@ -1,26 +1,26 @@
-asgiref
-astroid
-Django
-django-clear-cache
-django-cors-headers
-django-rest-framework-mongoengine
-djangorestframework
-djongo
-freeze
-isort
-lazy-object-proxy
-mccabe
-mongoengine
-Pillow
-pip
-pylint
-pylint-django
-pylint-plugin-utils
-pymongo
-pytz
-setuptools
-six
-sqlparse
-toml
-wheel
-wrapt
+asgiref                ==           3.3.1
+astroid                  ==         2.4.2
+Django                     ==       3.0.5
+django-clear-cache           ==     0.3
+django-cors-headers            ==   3.6.0
+django-rest-framework-mongoengine== 3.4.1
+djangorestframework              == 3.12.2
+djongo                           == 1.3.3
+freeze                           == 3.0
+isort                           ==  5.7.0
+lazy-object-proxy               ==  1.4.3
+mccabe                          ==  0.6.1
+mongoengine                     ==  0.22.1
+Pillow                          ==  8.1.0
+pip                             ==  20.3.1
+pylint                          ==  2.6.0
+pylint-django                   ==  2.4.2
+pylint-plugin-utils            ==   0.6
+pymongo                        ==   3.11.2
+pytz                           ==   2020.5
+setuptools                     ==   51.0.0
+six                            ==   1.15.0
+sqlparse                       ==   0.2.4
+toml                           ==   0.10.2
+wheel                          ==   0.36.1
+wrapt                          ==   1.12.1
